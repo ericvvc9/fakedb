@@ -8,15 +8,15 @@
   "categories": [
     {
     "id": 10101,
-    "title": "chinese",
-    "slug": "chinese",
+    "title": "Chicken",
+    "slug": "Chicken",
     "children": [],
-    "type": "bakery",
+    "type": "Chicken",
     "itemCount": 20,
     "icon": "https://res.cloudinary.com/redq-inc/image/upload/v1600351535/pickbazar/bakery/Juice_q1dlke.png"
   },
     {
-    "id": 10101,
+    "id": 10102,
     "title": "Sea Food",
     "slug": "sea-food",
     "children": [],
@@ -25,7 +25,7 @@
     "icon": "https://res.cloudinary.com/redq-inc/image/upload/v1600351535/pickbazar/bakery/Juice_q1dlke.png"
   },
     {
-    "id": 10101,
+    "id": 10103,
     "title": "caribbean",
     "slug": "caribbean",
     "children": [],
@@ -34,11 +34,20 @@
     "icon": "https://res.cloudinary.com/redq-inc/image/upload/v1600351535/pickbazar/bakery/Juice_q1dlke.png"
   },
     {
-    "id": 10101,
+    "id": 10104,
     "title": "thai",
     "slug": "thai",
     "children": [],
-    "type": "bakery",
+    "type": "Sandwich",
+    "itemCount": 20,
+    "icon": "https://res.cloudinary.com/redq-inc/image/upload/v1600351535/pickbazar/bakery/Juice_q1dlke.png"
+  },
+    {
+    "id": 10105,
+    "title": "thai",
+    "slug": "thai",
+    "children": [],
+    "type": "Burgers",
     "itemCount": 20,
     "icon": "https://res.cloudinary.com/redq-inc/image/upload/v1600351535/pickbazar/bakery/Juice_q1dlke.png"
   }
