@@ -8,42 +8,43 @@
   "categories": [
     {
     "id": 10101,
-    "title": "Cat1",
-    "slug": "cat1",
+    "title": "chinese",
+    "slug": "chinese",
     "children": [],
     "type": "bakery",
     "itemCount": 20,
     "icon": "https://res.cloudinary.com/redq-inc/image/upload/v1600351535/pickbazar/bakery/Juice_q1dlke.png"
   },
-
-  {
-    "id": 10102,
-    "title": "Coffee & Tea",
-    "slug": "coffee-tea",
+    {
+    "id": 10101,
+    "title": "Sea Food",
+    "slug": "sea-food",
     "children": [],
     "type": "bakery",
     "itemCount": 20,
-    "icon": "https://res.cloudinary.com/redq-inc/image/upload/v1600351534/pickbazar/bakery/Coffee_j6vccc.png"
+    "icon": "https://res.cloudinary.com/redq-inc/image/upload/v1600351535/pickbazar/bakery/Juice_q1dlke.png"
+  },
+    {
+    "id": 10101,
+    "title": "caribbean",
+    "slug": "caribbean",
+    "children": [],
+    "type": "bakery",
+    "itemCount": 20,
+    "icon": "https://res.cloudinary.com/redq-inc/image/upload/v1600351535/pickbazar/bakery/Juice_q1dlke.png"
+  },
+    {
+    "id": 10101,
+    "title": "thai",
+    "slug": "thai",
+    "children": [],
+    "type": "bakery",
+    "itemCount": 20,
+    "icon": "https://res.cloudinary.com/redq-inc/image/upload/v1600351535/pickbazar/bakery/Juice_q1dlke.png"
   }
+
   ],
   "products": [
-    {
-    "id": "1001",
-    "name": "Bristo-C Chinese Restaurant",
-    "slug": "bristo-c-res",
-    "previewUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/bristo.jpg",
-    "thumbnailUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/bristo_thumb.jpg",
-    "type": "restaurant",
-    "categories": ["chinese", "sea-food", "caribbean", "thai", "fast-food"],
-    "description": "we provide best Burger",
-    "deliveryDetails": {
-      "charge": "Free",
-      "minimumOrder": 50,
-      "isFree": true
-    },
-    "promotion": "10",
-    "address": "19 Street Road, Broklyn Newyork",
-    "products": [
       {
         "id": "2001",
         "type": "Burgers",
@@ -70,6 +71,46 @@
         "type": "Chicken",
         "name": "Jerk Chicken",
         "description": "Chicken prepared wth spices and slow-cooked over a fire or grill",
+        "price": 10.0
+      },
+    {
+        "id": "6007",
+        "type": "Rice",
+        "name": "Chicken Fried Rice",
+        "description": "Prepared with chinese masala and rice and chicken with fresh vegetable",
+        "price": 12.0
+      },
+      {
+        "id": "6008",
+        "type": "Rice",
+
+        "name": "Egg Fried Rice",
+        "description": "Prepared with chinese masala and rice and egg with fresh vegetable",
+        "price": 15.0
+      },
+      {
+        "id": "6009",
+        "type": "Sandwich",
+
+        "name": "Grilled Club Sandwich",
+        "description": "Prepared with grilled chicken patty, salad and house signature sauce",
+        "price": 5.0
+      },
+
+      {
+        "id": "6010",
+        "type": "Chicken",
+
+        "name": "Chicken Sizzling",
+        "description": "Prepared with fresh chicken , garlic and house signature sauce",
+        "price": 8.0
+      },
+      {
+        "id": "6006",
+        "type": "Beef",
+
+        "name": "Beef Chili Onion",
+        "description": "Prepared with fresh beef, chili, onion , garlic and house signature sauce",
         "price": 10.0
       }
     ],
