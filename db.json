@@ -146,5 +146,10 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "login":{
+    "username": "test123",
+    "password": "herpderp123",
+    "token":"token-123"
   }
 }
