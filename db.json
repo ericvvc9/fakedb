@@ -196,20 +196,6 @@
     "attention_time": "De 10am a 4pm",
     "delivery_fee": 0,
     "related": [
-      {
-        "id": "2001",
-        "type": "Burgers",
-        "name": "Classic Cheese Burger",
-        "title": "Classic Cheese Burger",
-        "district": "Surquillo",
-        "attention_time": "De 10am a 4pm",
-        "delivery_fee": 0,
-        "description": "Prepared with a patty, a slice of cheese and special sauce",
-        "price": 5.0,
-        "slug": "red-dragon",
-        "previewUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/red.jpg",
-        "thumbnailUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/red_thumb.jpg"
-      }
     ],
     "description": "Prepared with chinese masala and rice and egg with fresh vegetable",
     "price": 15.0,
@@ -226,20 +212,6 @@
     "attention_time": "De 10am a 4pm",
     "delivery_fee": 0,
     "related": [
-      {
-        "id": "2001",
-        "type": "Burgers",
-        "name": "Classic Cheese Burger",
-        "title": "Classic Cheese Burger",
-        "district": "Surquillo",
-        "attention_time": "De 10am a 4pm",
-        "delivery_fee": 0,
-        "description": "Prepared with a patty, a slice of cheese and special sauce",
-        "price": 5.0,
-        "slug": "red-dragon",
-        "previewUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/red.jpg",
-        "thumbnailUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/red_thumb.jpg"
-      }
     ],
     "description": "Prepared with grilled chicken patty, salad and house signature sauce",
     "price": 5.0,
@@ -256,20 +228,6 @@
     "attention_time": "De 10am a 4pm",
     "delivery_fee": 0,
     "related": [
-      {
-        "id": "2001",
-        "type": "Burgers",
-        "name": "Classic Cheese Burger",
-        "title": "Classic Cheese Burger",
-        "district": "Surquillo",
-        "attention_time": "De 10am a 4pm",
-        "delivery_fee": 0,
-        "description": "Prepared with a patty, a slice of cheese and special sauce",
-        "price": 5.0,
-        "slug": "red-dragon",
-        "previewUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/red.jpg",
-        "thumbnailUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/red_thumb.jpg"
-      }
     ],
     "description": "Prepared with fresh chicken , garlic and house signature sauce",
     "price": 8.0,
