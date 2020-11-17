@@ -57,32 +57,32 @@
       "delivery_fee": 0,
       "related": [
         {
-          "id": "2002",
-          "type": "Burgers2",
-          "name": "Classic Cheese Burger2",
-          "title": "Classic Cheese Burger2",
-          "district": "Surquillo",
-          "attention_time": "De 10am a 4pm",
-          "delivery_fee": 0,
-          "description": "Prepared with a patty, a slice of cheese and special sauce",
-          "price": 5.0,
-          "slug": "red-dragon2",
-          "previewUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/red.jpg",
-          "thumbnailUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/red_thumb.jpg"
+ "id": "2002",
+ "type": "Burgers2",
+ "name": "Classic Cheese Burger2",
+ "title": "Classic Cheese Burger2",
+ "district": "Surquillo",
+ "attention_time": "De 10am a 4pm",
+ "delivery_fee": 0,
+ "description": "Prepared with a patty, a slice of cheese and special sauce",
+ "price": 5.0,
+ "slug": "red-dragon2",
+ "previewUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/red.jpg",
+ "thumbnailUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/red_thumb.jpg"
         },
         {
-          "id": "2002",
-          "type": "Burgers2",
-          "name": "Classic Cheese Burger2",
-          "title": "Classic Cheese Burger2",
-          "district": "Surquillo",
-          "attention_time": "De 10am a 4pm",
-          "delivery_fee": 0,
-          "description": "Prepared with a patty, a slice of cheese and special sauce",
-          "price": 5.0,
-          "slug": "red-dragon2",
-          "previewUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/red.jpg",
-          "thumbnailUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/red_thumb.jpg"
+ "id": "2002",
+ "type": "Burgers2",
+ "name": "Classic Cheese Burger2",
+ "title": "Classic Cheese Burger2",
+ "district": "Surquillo",
+ "attention_time": "De 10am a 4pm",
+ "delivery_fee": 0,
+ "description": "Prepared with a patty, a slice of cheese and special sauce",
+ "price": 5.0,
+ "slug": "red-dragon2",
+ "previewUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/red.jpg",
+ "thumbnailUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/red_thumb.jpg"
         }
       ],
       "description": "Prepared with a patty, a slice of cheese and special sauce",
@@ -131,18 +131,18 @@
       "delivery_fee": 0,
       "related": [
         {
-          "id": "2001",
-          "type": "Burgers",
-          "name": "Classic Cheese Burger",
-          "title": "Classic Cheese Burger",
-          "district": "Surquillo",
-          "attention_time": "De 10am a 4pm",
-          "delivery_fee": 0,
-          "description": "Prepared with a patty, a slice of cheese and special sauce",
-          "price": 5.0,
-          "slug": "red-dragon",
-          "previewUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/red.jpg",
-          "thumbnailUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/red_thumb.jpg"
+ "id": "2001",
+ "type": "Burgers",
+ "name": "Classic Cheese Burger",
+ "title": "Classic Cheese Burger",
+ "district": "Surquillo",
+ "attention_time": "De 10am a 4pm",
+ "delivery_fee": 0,
+ "description": "Prepared with a patty, a slice of cheese and special sauce",
+ "price": 5.0,
+ "slug": "red-dragon",
+ "previewUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/red.jpg",
+ "thumbnailUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/red_thumb.jpg"
         }
       ],
       "description": "Chicken prepared wth spices and slow-cooked over a fire or grill",
@@ -161,18 +161,18 @@
       "delivery_fee": 0,
       "related": [
         {
-          "id": "2001",
-          "type": "Burgers",
-          "name": "Classic Cheese Burger",
-          "title": "Classic Cheese Burger",
-          "district": "Surquillo",
-          "attention_time": "De 10am a 4pm",
-          "delivery_fee": 0,
-          "description": "Prepared with a patty, a slice of cheese and special sauce",
-          "price": 5.0,
-          "slug": "red-dragon",
-          "previewUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/red.jpg",
-          "thumbnailUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/red_thumb.jpg"
+ "id": "2001",
+ "type": "Burgers",
+ "name": "Classic Cheese Burger",
+ "title": "Classic Cheese Burger",
+ "district": "Surquillo",
+ "attention_time": "De 10am a 4pm",
+ "delivery_fee": 0,
+ "description": "Prepared with a patty, a slice of cheese and special sauce",
+ "price": 5.0,
+ "slug": "red-dragon",
+ "previewUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/red.jpg",
+ "thumbnailUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/red_thumb.jpg"
         }
       ],
       "description": "Prepared with chinese masala and rice and chicken with fresh vegetable",
@@ -236,18 +236,18 @@
       "delivery_fee": 0,
       "related": [
         {
-          "id": "2001",
-          "type": "Burgers",
-          "name": "Classic Cheese Burger",
-          "title": "Classic Cheese Burger",
-          "district": "Surquillo",
-          "attention_time": "De 10am a 4pm",
-          "delivery_fee": 0,
-          "description": "Prepared with a patty, a slice of cheese and special sauce",
-          "price": 5.0,
-          "slug": "red-dragon",
-          "previewUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/red.jpg",
-          "thumbnailUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/red_thumb.jpg"
+ "id": "2001",
+ "type": "Burgers",
+ "name": "Classic Cheese Burger",
+ "title": "Classic Cheese Burger",
+ "district": "Surquillo",
+ "attention_time": "De 10am a 4pm",
+ "delivery_fee": 0,
+ "description": "Prepared with a patty, a slice of cheese and special sauce",
+ "price": 5.0,
+ "slug": "red-dragon",
+ "previewUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/red.jpg",
+ "thumbnailUrl": "https://s3.amazonaws.com/redqteam.com/pickbazar/Food/red_thumb.jpg"
         }
       ],
       "description": "Prepared with fresh beef, chili, onion , garlic and house signature sauce",
@@ -273,22 +273,22 @@
       "deliveryFee": 49.7,
       "products": [
         {
-          "id": 1,
-          "title": "Banana",
-          "weight": "2lb",
-          "price": 50,
-          "image": "http://s3.amazonaws.com/redqteam.com/headless-image/banana.jpg",
-          "quantity": 2,
-          "total": 100
+ "id": 1,
+ "title": "Banana",
+ "weight": "2lb",
+ "price": 50,
+ "image": "http://s3.amazonaws.com/redqteam.com/headless-image/banana.jpg",
+ "quantity": 2,
+ "total": 100
         },
         {
-          "id": 2,
-          "title": "Onions",
-          "image": "http://s3.amazonaws.com/redqteam.com/headless-image/onions.jpg",
-          "weight": "2lb",
-          "price": 100,
-          "quantity": 1,
-          "total": 100
+ "id": 2,
+ "title": "Onions",
+ "image": "http://s3.amazonaws.com/redqteam.com/headless-image/onions.jpg",
+ "weight": "2lb",
+ "price": 100,
+ "quantity": 1,
+ "total": 100
         }
       ],
       "status": 2
@@ -297,6 +297,6 @@
   "login": {
     "username": "test123",
     "password": "herpderp123",
-    "token": "token-123"
+    "token": "tok"
   }
 }
