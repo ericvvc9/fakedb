@@ -295,29 +295,6 @@
       }
     ],
     "status": 2
-  },
-  {
-    "id": 2,
-    "userId": 1,
-    "amount": 339.0,
-    "deliveryTime": "17th April",
-    "date": "7th April 2019",
-    "deliveryAddress": "1756  Roy Alley, GIRARDVILLE, Pennsylvania",
-    "subtotal": 300.0,
-    "discount": 0.0,
-    "deliveryFee": 39.0,
-    "products": [
-      {
-        "id": 1,
-        "title": "Blue Grapes",
-        "image": "http://s3.amazonaws.com/redqteam.com/headless-image/blue_grapes.jpg",
-        "weight": "2lb",
-        "price": 150,
-        "quantity": 1,
-        "total": 150
-      }
-    ],
-    "status": 1
   }
 ],
 
