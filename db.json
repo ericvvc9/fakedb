@@ -321,15 +321,6 @@
         "price": 150,
         "quantity": 1,
         "total": 150
-      },
-      {
-        "id": 2,
-        "title": "Coconut",
-        "image": "http://s3.amazonaws.com/redqteam.com/headless-image/cocnut.jpg",
-        "weight": "2lb",
-        "price": 150,
-        "quantity": 1,
-        "total": 150
       }
     ],
     "status": 1
